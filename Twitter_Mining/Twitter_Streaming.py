@@ -3,7 +3,7 @@ from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 
-# Twitter API Credentials
+# Twitter API Credentials please set up in your twitter account and give access to this app
 access_token = "ENTER YOUR ACCESS TOKEN"
 access_token_secret = "ENTER YOUR ACCESS TOKEN SECRET"
 consumer_key = "ENTER YOUR API KEY"
